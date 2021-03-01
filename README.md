@@ -25,5 +25,6 @@ Here's a walkthrough of implemented Twitter client:
 
 <img src='https://i.imgur.com/1zdqOFH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <br> </br>
+<img src='https://i.imgur.com/iFONNFL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<br> </br>
 <img src='https://i.imgur.com/5ZtA4j4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
